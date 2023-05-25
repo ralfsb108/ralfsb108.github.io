@@ -109,18 +109,17 @@
   <div class="mx-auto grid max-w-7xl gap-x-8 gap-y-20 px-6 lg:px-8 xl:grid-cols-3">
     <div class="max-w-2xl">
       <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Meet our leadership</h2>
-      <p class="mt-6 text-lg leading-8 text-gray-600">Tu nezini kas tas ir.</p>
+      <p class="mt-6 text-lg leading-8 text-gray-600">.</p>
     </div>
     <ul role="list" class="grid gap-x-8 gap-y-12 sm:grid-cols-2 sm:gap-y-16 xl:col-span-2">
       <li>
         <div class="flex items-center gap-x-6">
-          <img class="h-16 w-16 rounded-full" src="https://blogapp.bitdefender.com/hotforsecurity/content/images/size/w1000/2022/09/bitex.jpeg![Uploading image.png…]()
-
-" alt="">
+          <img class="h-16 w-16 rounded-full" src="" alt="">
           <div>
             <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">Mikaels Jaksons</h3>
             <p class="text-sm font-semibold leading-6 text-indigo-600">Co-Founder / CEO crypto millionare</p>
-          </div>
+          </div>![8-VXJKBLyWFjRRd8b](https://github.com/ralfsb108/ralfsb108.github.io/assets/128597927/dc4956d5-a2a6-460b-9997-38b6cb3e429f)
+
         </div>
       </li>
 
