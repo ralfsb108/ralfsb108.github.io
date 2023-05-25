@@ -6,7 +6,7 @@
         <div class="lg:max-w-lg">
           <h2 class="text-base font-semibold leading-7 text-indigo-600">Deploy faster</h2>
           <p class="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">A better workflow</p>
-          <p class="mt-6 text-lg leading-8 text-gray-600">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.</p>
+          <p class="mt-6 text-lg leading-8 text-gray-600">Pret lauzni anv paņēmienu.</p>
           <dl class="mt-10 max-w-xl space-y-8 text-base leading-7 text-gray-600 lg:max-w-none">
             <div class="relative pl-9">
               <dt class="inline font-semibold text-gray-900">
@@ -15,7 +15,7 @@
                 </svg>
                 Push to deploy.
               </dt>
-              <dd class="inline">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Maiores impedit perferendis suscipit eaque, iste dolor cupiditate blanditiis ratione.</dd>
+              <dd class="inline">Nekādīgi.</dd>
             </div>
             <div class="relative pl-9">
               <dt class="inline font-semibold text-gray-900">
@@ -89,7 +89,7 @@
       <div class="-mt-2 p-2 lg:mt-0 lg:w-full lg:max-w-md lg:flex-shrink-0">
         <div class="rounded-2xl bg-gray-50 py-10 text-center ring-1 ring-inset ring-gray-900/5 lg:flex lg:flex-col lg:justify-center lg:py-16">
           <div class="mx-auto max-w-xs px-8">
-            <p class="text-base font-semibold text-gray-600">Pay once, own it forever</p>
+            <p class="text-base font-semibold text-gray-600">Pay once, own it forever. Thats what she said</p>
             <p class="mt-6 flex items-baseline justify-center gap-x-2">
               <span class="text-5xl font-bold tracking-tight text-gray-900">$349</span>
               <span class="text-sm font-semibold leading-6 tracking-wide text-gray-600">USD</span>
@@ -109,7 +109,7 @@
   <div class="mx-auto grid max-w-7xl gap-x-8 gap-y-20 px-6 lg:px-8 xl:grid-cols-3">
     <div class="max-w-2xl">
       <h2 class="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">Meet our leadership</h2>
-      <p class="mt-6 text-lg leading-8 text-gray-600">Libero fames augue nisl porttitor nisi, quis. Id ac elit odio vitae elementum enim vitae ullamcorper suspendisse.</p>
+      <p class="mt-6 text-lg leading-8 text-gray-600">Tu nezini kas tas ir.</p>
     </div>
     <ul role="list" class="grid gap-x-8 gap-y-12 sm:grid-cols-2 sm:gap-y-16 xl:col-span-2">
       <li>
@@ -135,7 +135,7 @@
     <img class="mx-auto h-12" src="https://tailwindui.com/img/logos/workcation-logo-indigo-600.svg" alt="">
     <figure class="mt-10">
       <blockquote class="text-center text-xl font-semibold leading-8 text-gray-900 sm:text-2xl sm:leading-9">
-        <p>“Lorem ipsum dolor sit amet consectetur adipisicing elit. Nemo expedita voluptas culpa sapiente alias molestiae. Numquam corrupti in laborum sed rerum et corporis.”</p>
+        <p>“Zdarova karowa”</p>
       </blockquote>
       <figcaption class="mt-10">
         <img class="mx-auto h-10 w-10 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
