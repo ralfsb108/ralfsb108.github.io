@@ -114,10 +114,11 @@
     <ul role="list" class="grid gap-x-8 gap-y-12 sm:grid-cols-2 sm:gap-y-16 xl:col-span-2">
       <li>
         <div class="flex items-center gap-x-6">
-          <img class="h-16 w-16 rounded-full" src="https://images.unsplash.com/photo-1494790108377-be9c29b29330?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=facearea&facepad=2&w=256&h=256&q=80" alt="">
+          <img class="h-16 w-16 rounded-full" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.bitdefender.com%2Fblog%2Fhotforsecurity%2Ffake-crypto-millionaire-charged-with-alleged-1-7m-cryptomining-scam%2F&psig=AOvVaw0PNC0i3L30dTr9XWbji0js&ust=1685090089825000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOCAqPSHkP8CFQAAAAAdAAAAABAE![Uploading image.png…]()
+" alt="">
           <div>
-            <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">Leslie Alexander</h3>
-            <p class="text-sm font-semibold leading-6 text-indigo-600">Co-Founder / CEO</p>
+            <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">Mikaels Jaksons</h3>
+            <p class="text-sm font-semibold leading-6 text-indigo-600">Co-Founder / CEO crypto millionare</p>
           </div>
         </div>
       </li>
