@@ -114,12 +114,10 @@
     <ul role="list" class="grid gap-x-8 gap-y-12 sm:grid-cols-2 sm:gap-y-16 xl:col-span-2">
       <li>
         <div class="flex items-center gap-x-6">
-          <img class="h-16 w-16 rounded-full" src="" alt="">
+          <img class="h-16 w-16 rounded-full" src="" alt="https://images.app.goo.gl/oynz55wZkYKDhB2L7">
           <div>
             <h3 class="text-base font-semibold leading-7 tracking-tight text-gray-900">Mikaels Jaksons</h3>
-            <p class="text-sm font-semibold leading-6 text-indigo-600">Co-Founder / CEO crypto millionare</p>
-          </div>![8-VXJKBLyWFjRRd8b](https://github.com/ralfsb108/ralfsb108.github.io/assets/128597927/dc4956d5-a2a6-460b-9997-38b6cb3e429f)
-
+            <p class="text-sm font-semibold leading-6 text-indigo-600">Co-Founder / CEO crypto millionare</p
         </div>
       </li>
 
